@@ -1,2 +1,0 @@
-# Carro-de-Compras
-La interfaz se trabajo con HTML5 y CSS3. Se trata de una pagina web donde ofrecen cursos. El usuario agrega y/o elimina los cursos que quiere en el carro de compras para luego comprarlos... La idea del proyecto era crear una interfaz de e-commerce y trabajar sobre un carrito de compras. Agregar 'cursos' al carrito, eliminar cursos si el usuario lo desea, o vaciar el carrito trabajando con un Javascript avanzado. Un proyecto que se utiliza en muchas paginas web.
